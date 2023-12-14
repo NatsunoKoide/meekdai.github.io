@@ -13,6 +13,7 @@
     "commentLabelColor":"#006b75",
     "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
     "i18n":"CN",
+    "dayTheme":"light",
     "nightTheme":"dark_colorblind",
-    "GMEEK_VERSION":"main"
+    "urlMode":"pinyin",
 }
